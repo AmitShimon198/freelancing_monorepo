@@ -1,0 +1,14 @@
+{
+  "name": "@myapp/second-app",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./src/index.ts",
+  "dependencies": {
+    "@types/node": "*",
+    "@types/react": "*",
+    "react": "*",
+    "react-dom": "*",
+    "typescript": "*",
+    "web-vitals": "*"
+  }
+}
